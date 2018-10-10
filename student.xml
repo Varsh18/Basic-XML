@@ -4,5 +4,6 @@
 <student>
 <name>Alex</name>
 <id>123</id>
+<cgpa></cgpa>
 </student>
 </record>
