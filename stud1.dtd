@@ -2,3 +2,4 @@
 <!ELEMENT record (student)+>
 <!ELEMENT student (name,id,cgpa)>
 <!ELEMENT name (#PCDATA)>
+<!ELEMENT id (#PCDATA)>
